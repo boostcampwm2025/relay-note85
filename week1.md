@@ -224,3 +224,22 @@ AI는 친구처럼, 그러나 더 냉철한 눈으로 우리를 바라봐 줄 �
 <img width="745" height="462" alt="Image" src="https://github.com/user-attachments/assets/3c960470-104d-46ec-a3d1-dfe43ceed53a" />
 
 - **느낀점** : 남들에게 뒤처지고 부족한가 싶은 생각에 약간 심란했었는데 AI 덕분에 저의 발판을 마련하기 위해 현재를 버티며 계속 해야겠다는 생각이 들었습니다.
+
+
+수행자 : `J291_홍신영`
+## 퀘스트 2️⃣ "AI에게 오늘의 운세 받아보기"
+
+명령 프롬프트:
+```txt
+내 이름은 [이름]이고, [출생년도]년 [월]월 [일]일생이야.
+오늘([오늘 날짜])의 운세를 알려줘. 총운 중심으로 알려줘.
+```
+
+답변:
+오늘의 운세 프롬프트를 가지고 저의 오늘의 운세를 받아보았습니다!
+오늘 운세를 바탕으로 오늘의 조언을 얻어보았습니다.
+![image] (https://private-user-images.githubusercontent.com/162662145/470135800-ccbfb4fd-a5c6-420c-ba8c-1a3abd4a5809.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM0MTY1MDAsIm5iZiI6MTc1MzQxNjIwMCwicGF0aCI6Ii8xNjI2NjIxNDUvNDcwMTM1ODAwLWNjYmZiNGZkLWE1YzYtNDIwYy1iYThjLTFhM2FiZDRhNTgwOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyNVQwNDAzMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZDQ1YjJhYjdiYWE3Y2E3YWI0NzJhMjNmYzMwZThiMWMyODBiYzNkNmZlM2JjYTE0MDg5MTEwMGNjNzkzOTNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dppNCGRHEWmb0REm6-UaKBdy6icAl0t-LxqtuiPO7HU)
+추가로 오늘의 공부운도 받아보았는데요! 오늘 공부가 괜시리 잘 될 것 같네요!
+![image](https://private-user-images.githubusercontent.com/162662145/470135948-59623e74-6042-4b4d-aeac-c05145a4e663.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM0MTY1MDAsIm5iZiI6MTc1MzQxNjIwMCwicGF0aCI6Ii8xNjI2NjIxNDUvNDcwMTM1OTQ4LTU5NjIzZTc0LTYwNDItNGI0ZC1hZWFjLWMwNTE0NWE0ZTY2My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyNVQwNDAzMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNGE1NzQ2MGJiMTgzNmUxY2FiMGVhZDMyNGNjZWM4NTY4ODNmMTFkYjU5NTQzZjU5ZjE3MTU4YTg3YTFlMmFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zxGcty2lSKTRwH8OGuV4mMxZQTOoa1rm5ZLethRM7wQ)
+
+느낀점 : 오늘의 운세를 받아보고 하루가 어떻게 될 지 생각을 해보았는데 오늘의 운세가 나쁘든 좋든 상관없이 나의 할 일을 하고 하루를 조금이라도 행복하게 만드는 연습도 필요할 거 같아요!
